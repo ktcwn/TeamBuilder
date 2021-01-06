@@ -1,15 +1,18 @@
 # Team Profile Generator 
   ## Table of Contents
-    1. [Description]#description
-    2. [Installation]
-    3. [Usage]
-    4. [License]
-    5. [Contribution]
-    6. [Tests]
-    7. [Questions]
+
+ * [Description](#description)
+ * [Installation](#installation)
+ * [Usage](#usage)
+ * [License](#license)
+ * [Contributions](#contributions)
+ * [Tests](#tests)
+ * [Questions](#questions)
+
 
   ##  Description
    The team profile generator uses Node.js to create a team consisting of a manager, engineer and interns. Once the questions have been answered, we use fs.writeFile to generator a team profile page to see in the browser. 
+   ![TeamBuilder Demo](./readMeGeneratorGif.gif)
         
   ## Installation
    No additional packages are needed to install
